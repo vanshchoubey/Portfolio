@@ -1,0 +1,31 @@
+[
+    {
+      "role": "Intern",
+      "organisation": "Ips college of Technology",
+      "startDate": "Aug, 2023",
+      "endDate": "15 days",
+      "experiences": ["Learned core concepts of python", "Made contact book"],
+      "imageSrc": "history/Python.png",
+      "certificateLink":"https://drive.google.com/file/d/1gHNJ4NE2E9NLPaSlzTUkJL3OYGCzFEN3/view?usp=sharing"
+    },
+    {
+      "role": "React cource ",
+      "organisation": "Udemy",
+      "startDate": "Dec, 2023",
+      "endDate": "Jan, 2024",
+      "experiences": ["Learned React js in-depth", "Redux, Router, Framer etc."],
+      "imageSrc": "history/Udemy.png",
+      "certificateLink":"http://ude.my/UC-31248112-48d5-4fce-b5b9-7f548d22fee7"
+    },
+    {
+      "role": "Bootcamp",
+      "organisation": "Google",
+      "startDate": "Apr 2023",
+      "endDate": "7 days",
+      "experiences": ["React js and Js core concept", "learned Es6 and dive into Hooks"],
+      "imageSrc": "history/google.png",
+      "certificateLink":"https://cert.devtown.in/verify/uKNTu"
+    }
+
+
+  ]

@@ -1,0 +1,18 @@
+[
+    {
+      "title": "ShopKaro",
+      "imageSrc": "projects/shopkaro.png",
+      "description": "This is an ecommerce web application with an ADMIN panel. Razorpay is also integrated for payments ",
+      "skills": ["React", "Firebase", "Taillwind"],
+      "demo": "https://shopkaro-vansh.netlify.app/",
+      "source": "https://github.com/vanshchoubey/ShopKaro-ecommerce"
+    },
+    {
+      "title": "Foody ",
+      "imageSrc": "projects/foodApp.png",
+      "description": "A food ordering web app made with made with React.Used react-router for making it SPA",
+      "skills": ["React", "CSS","react-router"],
+      "demo": "https://food-app-vansh.netlify.app/",
+      "source": "https://github.com/vanshchoubey/Food-order-app-React"
+    }
+  ]
