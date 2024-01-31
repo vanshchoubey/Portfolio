@@ -1,14 +1,5 @@
 [
     {
-      "role": "Intern",
-      "organisation": "Ips college of Technology",
-      "startDate": "Aug, 2023",
-      "endDate": "15 days",
-      "experiences": ["Learned core concepts of python", "Made contact book"],
-      "imageSrc": "history/Python.png",
-      "certificateLink":"https://drive.google.com/file/d/1gHNJ4NE2E9NLPaSlzTUkJL3OYGCzFEN3/view?usp=sharing"
-    },
-    {
       "role": "React cource ",
       "organisation": "Udemy",
       "startDate": "Dec, 2023",
@@ -22,10 +13,20 @@
       "organisation": "Google",
       "startDate": "Apr 2023",
       "endDate": "7 days",
-      "experiences": ["React js and Js core concept", "learned Es6 and dive into Hooks"],
+      "experiences": ["ReactJs and Javascript core concept", "learned Es6 and dive into Hooks"],
       "imageSrc": "history/google.png",
       "certificateLink":"https://cert.devtown.in/verify/uKNTu"
+    },
+    {
+      "role": "Bootcamp",
+      "organisation": "Microsoft",
+      "startDate": "Apr 2023",
+      "endDate": "7 days",
+      "experiences": ["Learned HTML5 and CSS3","Made GOOGLE DRIVE UI clone "],
+      "imageSrc": "history/microsoft.png",
+      "certificateLink":"https://cert.devtown.in/verify/249Sfk"
     }
+
 
 
   ]
