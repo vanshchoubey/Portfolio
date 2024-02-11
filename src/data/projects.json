@@ -14,5 +14,13 @@
       "skills": ["React", "CSS","react-router"],
       "demo": "https://food-app-vansh.netlify.app/",
       "source": "https://github.com/vanshchoubey/Food-order-app-React"
+    },
+    {
+      "title": "Crypto Bazaar",
+      "imageSrc": "projects/cryptoImg.png",
+      "description": "A web app which shows crypto rates made with react , Used chartjs and alice-carousel ",
+      "skills": ["React", "MUI","ContextAPI"],
+      "demo": "https://cccrypto-bazaar.netlify.app/",
+      "source": "https://github.com/vanshchoubey/crypto-bazaar"
     }
   ]
