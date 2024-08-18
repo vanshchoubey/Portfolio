@@ -28,7 +28,7 @@ export const Contact = () => {
         </li>
         <li className={styles.link}>
           <img src={getImageUrl("contact/resumeIcon.png")} alt="Github icon" />
-          <a href="https://drive.google.com/file/d/1d3n9EGl0uGww8zYjUyExbU-JrrUqZox-/view">drive.com/vansh-resume</a>
+          <a href="https://drive.google.com/file/d/1Z5FhCVd251Q3Zj1azsV43Y5gDiWFKVbC/view?usp=sharing">drive.com/vansh-resume</a>
         </li>
       </ul>
     </footer>
